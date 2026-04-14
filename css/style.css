@@ -1,0 +1,81 @@
+.section {
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: aqua;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.section img {
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+    min-height: 300px;
+}
+
+.footer img {
+    height: 100px;
+}
+
+.smi {
+    list-style: none;
+}
+
+.smi li {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 60%;
+    margin: 0 10px;
+}
+
+.text {
+    text-align: justify;
+}
+
+.gal {
+    height: 70.5%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.gal1 {
+    height: 71.5%;
+    width: 100%;
+
+}
+
+.aboutsec {
+    margin-top: -3%;
+}
+
+.bcontact {
+    height: 70vh;
+    width: 100%;
+}
+
+
+/* .rleft {
+    height: 70vh;
+    width: 80vh;
+} */
+
+.rimg {
+    height: 100%;
+    width: 100%;
+}
+
+.login {
+    margin: 0 auto;
+}
+
+
+
+.loginimg {
+    width: 70vh;
+    height: 70vh;
+}
